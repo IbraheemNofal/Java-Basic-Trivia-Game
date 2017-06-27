@@ -1,0 +1,5 @@
+An old project of mine which I did for a component programming course back in second year, and later edited slightly for a Networks course.
+Back in my Component programming course, we'd been already taught how to create SQL connections and query in Java, but I decided that I 
+should also learn how to program sockets. Not my finest work, but still serves as a good reference for learning socket programming and SQL connections
+in Java. In simple terms, there's a server and a client, the server waits for the client to connect, retrieves questions from the DB and sends them to
+client, which presents them for the user and returns the answer to the server. Simple and easy.
